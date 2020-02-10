@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TravelYuk</string>
+    <string name="indonesia">INDONESIA</string>
+    <string name="pulau_seribu">PULAU SERIBU</string>
+    <string name="description">Description</string>
+    <string name="green_bridge_from_seatle_is_really_awesome_to_get_the_hot_spot_for_traveller_who_is_traveling_right_there_with_their_families">Green bridge from Seatle is really awesome to get the hot spot for traveller who is traveling right there with their families.</string>
+    <string name="simply_dummy_text_something_is_nice_but_you_have_to_aware_about_the_branding_of_the_product_itself_so_keep_it_happy_and_make_it_more_fancy">Simply dummy text something is nice but you have to aware about the branding of the product itself so keep it happy and make it more fancy.</string>
+    <string name="todo">TODO</string>
+</resources>
